@@ -19,14 +19,14 @@ addon_info = {
 	# Translators: Long description to be shown for this add-on on add-on information from add-ons manager
 	"addon_description" : _("""Diese Erweiterung verbessert die Zugaenglichkeit von Flicgrab durch Beschriften vieler Elemente."""),
 	# version
-	"addon_version" : "0.3",
+	"addon_version" : "0.4",
 	# Author(s)
 	"addon_author" : u"David Parduhn <xkill85@gmx.net>",
 	# URL for the add-on documentation support
 	"addon_url" : None,
 	# Documentation file name
 	"addon_docFileName" : "readme.html",
-	"lastTestedNVDAVersion" : "2019.3.0",
+	"lastTestedNVDAVersion" : "2021.1",
 }
 
 
